@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+I'm the friendliest, luckyest dragon you'll ever meet.
